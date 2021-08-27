@@ -14,4 +14,23 @@ So here are few of the Mentorship Programs :-
 -   In their 3rd  year of a full-time 4-year engineering course in Computer Science or related branches (IT, software engineering, etc.).
 -   In their 2nd  year of a full-time 4-year engineering course in Computer Science or related branches (IT, software engineering, etc.). 
 
+Expected month of Application : *August* 
+
 For more details : [DESIS ASCEND EDUCARE 2021](https://www.deshaw.com/forms/OERCQTZFNjEtQUIyQi00ODkwLTlBODktMkU2MDQ1NzQwRUE4)
+
+## 2. Twitter DevelopHer :
+
+
+  
+**Twitter DevelopHer** is a two-day virtual event with hands-on technical workshops, a team coding challenge, and professional development seminars!
+
+  
+Eligibility : Female Candidates.  (2nd year and 3rd year students in 2021)
+  
+Perks :  
+Direct Interview for Internships at Twitter.  
+Swags and Goodies.
+
+Expected month of Application : *August* 
+
+ 
