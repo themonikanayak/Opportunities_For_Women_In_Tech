@@ -25,7 +25,7 @@ So here are few of the Mentorship Programs :-
 **Twitter DevelopHer** is a two-day virtual event with hands-on technical workshops, a team coding challenge, and professional development seminars!
 
   
-**Eligibility :** Female Candidates.  (2nd year and 3rd year students in 2021)
+**Eligibility Criteria :** Female Candidates.  (2nd year and 3rd year students in 2021)
   
 **Perks :**  
 Direct Interview for Internships at Twitter.  
@@ -57,3 +57,16 @@ Expected month of Application : *August*
 **For More Details :** [Intuit Augment Mentorship Program](https://www.surveymonkey.com/r/INTUIT_2020)
 
 
+## 5.  TALENTSPRINT WOMEN ENGINEERS PROGRAM :
+
+
+[WE](https://we.talentsprint.com/index.html#) program is formerly known as Women Techmakers Engineering Fellow. WE, offered by TalentSprint and supported by Google, seeks to balance this gender disparity. This two-year experiential, interactive online program selects, trains, and nurtures capable first-year women engineering students to reach their true potential as world-class software engineers.
+
+**Eligibility Criteria :** 
+-   Women students currently in the first year of engineering
+-   Degrees: B.E., B.Tech
+-   Streams: IT, CS, EEE, ECE, or equivalent
+-   Grade: Over 70% in both X and XII
+
+
+**For more details :** [Talensprint WE Program](https://chetasshree.medium.com/how-i-got-selected-for-the-talentsprint-women-engineers-we-program-powered-by-google-a76b0cfb4a3)
