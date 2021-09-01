@@ -60,7 +60,7 @@ Expected month of Application : *August*
 ## 5.  TALENTSPRINT WOMEN ENGINEERS PROGRAM :
 
 
-[WE](https://we.talentsprint.com/index.html#) program is formerly known as Women Techmakers Engineering Fellow. WE, offered by TalentSprint and supported by Google, seeks to balance this gender disparity. This two-year experiential, interactive online program selects, trains, and nurtures capable first-year women engineering students to reach their true potential as world-class software engineers.
+[WE](https://we.talentsprint.com/index.html#) program is formerly known as **Women Techmakers Engineering Fellow**. WE, offered by TalentSprint and supported by Google, seeks to balance this gender disparity. This two-year experiential, interactive online program selects, trains, and nurtures capable first-year women engineering students to reach their true potential as world-class software engineers.
 
 **Eligibility Criteria :** 
 -   Women students currently in the first year of engineering
@@ -70,3 +70,15 @@ Expected month of Application : *August*
 
 
 **For more details :** [Talensprint WE Program](https://chetasshree.medium.com/how-i-got-selected-for-the-talentsprint-women-engineers-we-program-powered-by-google-a76b0cfb4a3)
+
+
+## 6. FLIPKART GIRLS WANNA CODE (GWC)
+
+Flipkart GWC is an immersive learning program facilitated by experts from Flipkart. The learning program will contain 4 modules designed to train the selected students on the skills required to crack interviews at top technology and product companies. At the end of each module, students will undergo evaluations in the form of online tests through which they can test their knowledge on the modules. Students that are a part of the cohort also get exclusive access to mentors from Flipkart who can be consulted throughout the journey of the program.
+
+**Eligibility Criteria :** 
+
+
+Open to all women engineering students pursuing a full-time **B.Tech./ B.E. (2nd, 3rd, and 4th year) or M.Tech./ M.E. (All Years)** degrees across branches but only for *specific colleges.*
+
+**For More Details:** [Flipkart GWC](https://dare2compete.com/hackathon/flipkart-girls-wanna-code-30-flipkart-145093?lb=03XMufy)
