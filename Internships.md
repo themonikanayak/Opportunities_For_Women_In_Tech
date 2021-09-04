@@ -15,3 +15,20 @@ To address so many gender-biased problems women face, tech firms have started gi
 -   Currently attending a university in North America.
 
 **For more details:** [GOOGLE STEP Intern](https://buildyourfuture.withgoogle.com/programs/step/)
+
+## 2. AMAZEWOW
+
+
+
+**AmazeWoW** is a development initiative with internship and FTE SDE (Full-time Software Development Engineer) opportunities for **Amazon** in India, focused on bringing in top tech talent from engineering institutes.
+
+**Eligibility Criteria:** 
+1.  Only Female Candidates are allowed to participate.
+2.  BE/B.Tech/Master degree in Computer science or related stream with no backlog and CGPA greater than 6.5.
+3.  Candidate should have coding knowledge of any one programming language such as  [C](https://www.geeksforgeeks.org/c-programming-language/),  [C++](https://www.geeksforgeeks.org/c-plus-plus/)  or  [Java](https://www.geeksforgeeks.org/java/), etc.
+4.  Understanding of Design Patterns, Data Structure & Algorithm, and relational databases.
+5.  Should have better problem-solving skills
+
+
+
+**For more details:** [AmazeWow Experience](https://medium.com/@saismitapanda09/amazewow-interview-experience-and-preparation-guidelines-1dfb49795185)
