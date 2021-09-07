@@ -32,3 +32,16 @@ To address so many gender-biased problems women face, tech firms have started gi
 
 
 **For more details:** [AmazeWow Experience](https://medium.com/@saismitapanda09/amazewow-interview-experience-and-preparation-guidelines-1dfb49795185)
+
+## 3. VISA  CODE YOUR WAY: 
+
+**Visa Code UR Way** is contest where you solve **algorithm coding challenges**, **win exciting prizes** and **stand a chance to win an all-expenses-paid trip to meet to Visa team in Bangalore**! Visa also recruits students for internship and new graduate engineering opportunities.
+
+**Eligibility Criteria :**
+-   Pre-final & Final year women students only
+-   Only from the selected list of engineering colleges in India  [(check your college)](https://s3-ap-southeast-1.amazonaws.com/he-public-data/Code%20UR%20way%20college%20list%202019ff0c329-convertede8b1ba7.pdf)
+-   Study discipline – B.E/B.Tech, M.Tech/Dual Degree
+-   Study branch – All branches allowed
+
+
+**For more details:**  [Visa Code Your Way](https://assessment.hackerearth.com/challenges/hiring/visa-code-your-way-2019/)
