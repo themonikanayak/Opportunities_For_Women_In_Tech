@@ -84,7 +84,7 @@ Open to all women engineering students pursuing a full-time **B.Tech./ B.E. (2nd
 
 **For More Details:** [Flipkart GWC](https://dare2compete.com/hackathon/flipkart-girls-wanna-code-30-flipkart-145093?lb=03XMufy)
 
-## J.P. Morgan - Quant Mentorship Program
+## 7. J.P. MORGAN - QUANT MENTORSHIP PROGRAM
 
 **J.P. Morgan Quant Mentorship Program** is a unique opportunity for you to build skills required for a successful career in *Quantitative Finance*. Learn how mathematical modelling and coding are employed in the financial services industry.
 
